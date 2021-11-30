@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @anti20ze
+- 👀 I’m interested in spreadsheets
+- 🌱 I’m currently learning typescript
+- 💞️ I’m looking to collaborate on data analysis
